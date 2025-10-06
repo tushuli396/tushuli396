@@ -87,7 +87,7 @@ End‑to‑end **NLP** (spaCy, NLTK, **BERTopic**) with sentiment & topic modeli
 
 > 👉 Add links to these repos once public:
 >
-> * [https://github.com/YOUR_GITHUB_USERNAME/forecasting-anomaly-detection](https://github.com/tushuli396/forecasting-anomaly-detection)
+> * [(https://github.com/tushuli396/forecasting-anomaly-detection)](https://github.com/tushuli396/Demand-Forecasting-Anomaly-System)
 > * [https://github.com/YOUR_GITHUB_USERNAME/nlp-feedback-insights](https://github.com/tushuli396/nlp-feedback-insights)
 
 ---
