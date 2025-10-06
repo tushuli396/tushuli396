@@ -24,11 +24,11 @@
 
 ## 🧰 Toolbox
 
-**Languages**: Python (pandas, numpy, matplotlib), SQL (joins, CTEs, window functions), R
-**BI / Viz**: Power BI, Tableau, Looker
-**Data & Infra**: Alteryx, Snowflake, PostgreSQL, MySQL, NoSQL
-**Modeling**: Time‑series (ARIMA, Prophet, LSTM), A/B testing, Hypothesis testing
-**Data Quality**: Cleaning, Profiling, Source‑to‑Target mapping
+* **Languages**: Python (pandas, numpy, matplotlib), SQL (joins, CTEs, window functions), R*
+* **BI / Viz**: Power BI, Tableau, Looker*
+* **Data & Infra**: Alteryx, Snowflake, PostgreSQL, MySQL, NoSQL*
+* **Modeling**: Time‑series (ARIMA, Prophet, LSTM), A/B testing, Hypothesis testing*
+* **Data Quality**: Cleaning, Profiling, Source‑to‑Target mapping*
 
 ---
 
@@ -87,7 +87,6 @@ Python (**Prophet/LSTM**) + SQL pipeline with anomaly detection; interactive das
 **Sentiment & Topic Analysis on Customer Feedback**
 End‑to‑end **NLP** (spaCy, NLTK, **BERTopic**) with sentiment & topic modeling; surfaced pain points and trends in dashboards → **~15%** fewer complaints.
 
-> 👉 Add links to these repos once public:
 >
 > * [(https://github.com/tushuli396/forecasting-anomaly-detection)](https://github.com/tushuli396/Demand-Forecasting-Anomaly-System)
 > * [[https://github.com/YOUR_GITHUB_USERNAME/nlp-feedback-insights](https://github.com/tushuli396/nlp-feedback-insights)](https://github.com/tushuli396/Sentiment-Topic-Analysis-on-Customer-Feedback)
