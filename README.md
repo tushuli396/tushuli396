@@ -4,8 +4,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tushuli396&style=flat-square" alt="profile views"/>
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftushuli396&title=visitors&edge_flat=false" alt="visitors"/>
+ <a href="https://hits.sh/github.com/tushuli396/">
+  <img src="https://hits.sh/github.com/tushuli396.svg?style=flat&label=visitors" alt="visitors"/>
   </a>
 </p>
 
@@ -90,7 +90,7 @@ End‑to‑end **NLP** (spaCy, NLTK, **BERTopic**) with sentiment & topic modeli
 > 👉 Add links to these repos once public:
 >
 > * [(https://github.com/tushuli396/forecasting-anomaly-detection)](https://github.com/tushuli396/Demand-Forecasting-Anomaly-System)
-> * [https://github.com/YOUR_GITHUB_USERNAME/nlp-feedback-insights](https://github.com/tushuli396/nlp-feedback-insights)
+> * [[https://github.com/YOUR_GITHUB_USERNAME/nlp-feedback-insights](https://github.com/tushuli396/nlp-feedback-insights)](https://github.com/tushuli396/Sentiment-Topic-Analysis-on-Customer-Feedback)
 
 ---
 
