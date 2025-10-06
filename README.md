@@ -3,8 +3,8 @@
 *A Data & Analytics professional turning data into decisions — BI, SQL automation, and predictive analytics*
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square" alt="profile views"/>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/YOUR_GITHUB_USERNAME&title=visitors&edge_flat=false" alt="visitors"/>
+  <img src="https://komarev.com/ghpvc/?username=tushuli396&style=flat-square" alt="profile views"/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/tushuli396&title=visitors&edge_flat=false" alt="visitors"/>
 </p>
 
 ---
