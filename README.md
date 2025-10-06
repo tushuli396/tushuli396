@@ -87,8 +87,8 @@ End‑to‑end **NLP** (spaCy, NLTK, **BERTopic**) with sentiment & topic modeli
 
 > 👉 Add links to these repos once public:
 >
-> * [https://github.com/YOUR_GITHUB_USERNAME/forecasting-anomaly-detection](https://github.com/YOUR_GITHUB_USERNAME/forecasting-anomaly-detection)
-> * [https://github.com/YOUR_GITHUB_USERNAME/nlp-feedback-insights](https://github.com/YOUR_GITHUB_USERNAME/nlp-feedback-insights)
+> * [https://github.com/YOUR_GITHUB_USERNAME/forecasting-anomaly-detection](https://github.com/tushuli396/forecasting-anomaly-detection)
+> * [https://github.com/YOUR_GITHUB_USERNAME/nlp-feedback-insights](https://github.com/tushuli396/nlp-feedback-insights)
 
 ---
 
@@ -101,7 +101,6 @@ End‑to‑end **NLP** (spaCy, NLTK, **BERTopic**) with sentiment & topic modeli
 
 ## 📊 GitHub Stats
 
-> Replace `YOUR_GITHUB_USERNAME` below with your handle.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tushuli396\&layout=compact)
 
