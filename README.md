@@ -103,9 +103,9 @@ End‑to‑end **NLP** (spaCy, NLTK, **BERTopic**) with sentiment & topic modeli
 
 > Replace `YOUR_GITHUB_USERNAME` below with your handle.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tushuli396\&layout=compact)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tushuli396\&show_icons=true)
 
 ---
 
