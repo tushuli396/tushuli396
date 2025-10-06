@@ -4,7 +4,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tushuli396&style=flat-square" alt="profile views"/>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/tushuli396&title=visitors&edge_flat=false" alt="visitors"/>
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftushuli396&title=visitors&edge_flat=false" alt="visitors"/>
+  </a>
 </p>
 
 ---
